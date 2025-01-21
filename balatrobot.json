@@ -1,0 +1,2641 @@
+[
+	{
+		"name": "Joker",
+		"type": "Joker",
+		"effect": "+4 Mult",
+		"rarity": "Common",
+		"cost": 2,
+		"link": "https://balatrogame.fandom.com/wiki/Joker",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Greedy Joker",
+		"type": "Joker",
+		"effect": "Played cards with Diamond suit give +3 Mult when scored",
+		"rarity": "Common",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/Greedy_Joker",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Lusty Joker",
+		"type": "Joker",
+		"effect": "Played cards with Heart suit give +3 Mult when scored",
+		"rarity": "Common",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/Lusty_Joker",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Wrathful Joker",
+		"type": "Joker",
+		"effect": "Played cards with Spade suit give +3 Mult when scored",
+		"rarity": "Common",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/Wrathful_Joker",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Gluttonous Joker",
+		"type": "Joker",
+		"effect": "Played cards with Club suit give +3 Mult when scored",
+		"rarity": "Common",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/Gluttonous_Joker",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Jolly Joker",
+		"type": "Joker",
+		"effect": "+8 Mult if played hand contains a Pair",
+		"rarity": "Common",
+		"cost": 3,
+		"link": "https://balatrogame.fandom.com/wiki/Jolly_Joker",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Zany Joker",
+		"type": "Joker",
+		"effect": "+12 Mult if played hand contains a Three of a Kind",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Zany_Joker",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Mad Joker",
+		"type": "Joker",
+		"effect": "+10 Mult if played hand contains a Two Pair",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Mad_Joker",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Crazy Joker",
+		"type": "Joker",
+		"effect": "+12 Mult if played hand contains a Straight",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Crazy_Joker",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Droll Joker",
+		"type": "Joker",
+		"effect": "+10 Mult if played hand contains a Flush",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Droll_Joker",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Sly Joker",
+		"type": "Joker",
+		"effect": "+50 Chips if played hand contains a Pair",
+		"rarity": "Common",
+		"cost": 3,
+		"link": "https://balatrogame.fandom.com/wiki/Sly_Joker",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Willy Joker",
+		"type": "Joker",
+		"effect": "+100 Chips if played hand contains a Three of a Kind",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Willy_Joker",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Clever Joker",
+		"type": "Joker",
+		"effect": "+80 Chips if played hand contains a Two Pair",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Clever_Joker",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Devious Joker",
+		"type": "Joker",
+		"effect": "+100 Chips if played hand contains a Straight",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Devois_Joker",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Crafty Joker",
+		"type": "Joker",
+		"effect": "+80 Chips if played hand contains a Flush",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Crafty_Joker",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Half Joker",
+		"type": "Joker",
+		"effect": "+20 Mult if played hand contains 3 or fewer cards.",
+		"rarity": "Common",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/Half_Joker",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Joker Stencil",
+		"type": "Joker",
+		"effect": "X1 Mult for each empty Joker slot. Joker Stencil included",
+		"rarity": "Uncommon",
+		"cost": 8,
+		"link": "https://balatrogame.fandom.com/wiki/Joker_Stencil",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Four Fingers",
+		"type": "Joker",
+		"effect": "All Flushes and Straights can be made with 4 cards",
+		"rarity": "Uncommon",
+		"cost": 7,
+		"link": "https://balatrogame.fandom.com/wiki/Four_Fingers",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Mime",
+		"type": "Joker",
+		"effect": "Retrigger all card held in hand abilities",
+		"rarity": "Uncommon",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/Mime",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Credit Card",
+		"type": "Joker",
+		"effect": "Go up to -$20 in debt",
+		"rarity": "Common",
+		"cost": 1,
+		"link": "https://balatrogame.fandom.com/wiki/Credit_card",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Ceremonial Dagger",
+		"type": "Joker",
+		"effect": "When Blind is selected, destroy Joker to the right and permanently add double its sell value to this Mult",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Ceremonial_Dagger",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Banner",
+		"type": "Joker",
+		"effect": "+30 Chips for each remaining discard",
+		"rarity": "Common",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/Banner",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Mystic Summit",
+		"type": "Joker",
+		"effect": "+15 Mult when 0 discards remaining",
+		"rarity": "Common",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/Mystic_Summit",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Marble Joker",
+		"type": "Joker",
+		"effect": "Adds one Stone card to the deck when Blind is selected",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Marble_Joker",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Loyalty Card",
+		"type": "Joker",
+		"effect": "X4 Mult every 6 hands played. 5 remaining",
+		"rarity": "Uncommon",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/Loyalty_Card",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "8 Ball",
+		"type": "Joker",
+		"effect": "1 in 4 chance for each played 8 to create a Tarot card when scored (Must have room)",
+		"rarity": "Common",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/8_ball",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Misprint",
+		"type": "Joker",
+		"effect": "+0-23 Mult",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Misprint",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Dusk",
+		"type": "Joker",
+		"effect": "Retrigger all played cards in final hand of the round",
+		"rarity": "Uncommon",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/Dusk",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Raised Fist",
+		"type": "Joker",
+		"effect": "Adds double the rank of lowest ranked card held in hand to Mult",
+		"rarity": "Common",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/Raised_Fist",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Chaos the Clown",
+		"type": "Joker",
+		"effect": "1 free Reroll per shop",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Chaos_the_Clown",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Fibonacci",
+		"type": "Joker",
+		"effect": "Each played Ace, 2, 3, 5, or 8 gives +8 Mult when scored ",
+		"rarity": "Uncommon",
+		"cost": 8,
+		"link": "https://balatrogame.fandom.com/wiki/Fibonacci",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Steel Joker",
+		"type": "Joker",
+		"effect": "Gives X0.2 Mult for each Steel Card in your full deck",
+		"rarity": "Uncommon",
+		"cost": 7,
+		"link": "https://balatrogame.fandom.com/wiki/Steel_Joker",
+		"unlock": "N/A",
+		"notes": "Will not appear in the shop unless the player has a Steel Card in their deck."
+	},
+	{
+		"name": "Scary Face",
+		"type": "Joker",
+		"effect": "Played face cards give +30 Chips when scored",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Scary_Face",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Abstract Joker",
+		"type": "Joker",
+		"effect": "+3 Mult for each Joker card",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Abstract_Joker",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Delayed Gratification",
+		"type": "Joker",
+		"effect": "Earn $2 per discard if no discards are used by end of the round ",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Delayed_Gratification",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Hack",
+		"type": "Joker",
+		"effect": "Retrigger each played 2, 3, 4, or 5",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Hack",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Pareidolia",
+		"type": "Joker",
+		"effect": "All cards are considered face cards",
+		"rarity": "Uncommon",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/Pareidolia",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Gros Michel",
+		"type": "Joker",
+		"effect": "+15 Mult. 1 in 6 chance this is destroyed at the end of round.",
+		"rarity": "Common",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/Gros_Michel",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Even Steven",
+		"type": "Joker",
+		"effect": "Played cards with even rank give +4 Mult when scored (10, 8, 6, 4, 2)",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Even_Steven",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Odd Todd",
+		"type": "Joker",
+		"effect": "Played cards with odd rank give +31 Chips when scored (A, 9, 7, 5, 3)",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Odd_Todd",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Scholar",
+		"type": "Joker",
+		"effect": "Played Aces give +20 Chips and +4 Mult when scored",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Scholar",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Business Card",
+		"type": "Joker",
+		"effect": "Played face cards have a 1 in 2 chance to give $2 when scored",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Business_Card",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Supernova",
+		"type": "Joker",
+		"effect": "Adds the number of times poker hand has been played this run to Mult",
+		"rarity": "Common",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/Supernova",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Ride the Bus",
+		"type": "Joker",
+		"effect": "This Joker gains +1 Mult per consecutive hand played without a scoring face card",
+		"rarity": "Common",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Ride_the_Bus",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Space Joker",
+		"type": "Joker",
+		"effect": "1 in 4 chance to upgrade level of played poker hand",
+		"rarity": "Uncommon",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/Space_Joker",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Egg",
+		"type": "Joker",
+		"effect": "Gains $3 of sell value at end of round",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Egg",
+		"unlock": "N/A",
+		"notes": "🥚"
+	},
+	{
+		"name": "Burglar",
+		"type": "Joker",
+		"effect": "When Blind is selected, gain +3 Hands and lose all discards",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Burglar",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Blackboard",
+		"type": "Joker",
+		"effect": "X3 Mult if all cards held in hand are Spades or Clubs",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Blackboard",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Runner",
+		"type": "Joker",
+		"effect": "Gains +15 Chips if played hand contains a Straight",
+		"rarity": "Common",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/Runner",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Ice Cream",
+		"type": "Joker",
+		"effect": "+100 Chips. -5 Chips for every hand played",
+		"rarity": "Common",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/Ice_Cream",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "DNA",
+		"type": "Joker",
+		"effect": "If first hand of round has only 1 card, add a permanent copy to deck and draw it to hand",
+		"rarity": "Rare",
+		"cost": 8,
+		"link": "https://balatrogame.fandom.com/wiki/DNA",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Splash",
+		"type": "Joker",
+		"effect": "Every played card counts in scoring",
+		"rarity": "Common",
+		"cost": 3,
+		"link": "https://balatrogame.fandom.com/wiki/Splash",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Blue Joker",
+		"type": "Joker",
+		"effect": "+2 Chips for each remaining card in deck",
+		"rarity": "Common",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/Blue_Joker",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Sixth Sense",
+		"type": "Joker",
+		"effect": "If first hand of round is a single 6, destroy it and create a Spectral card (Must have room)",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Sixth_Sense",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Constellation",
+		"type": "Joker",
+		"effect": "This Joker gains X0.1 Mult every time a Planet card is used",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Constellation",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Hiker",
+		"type": "Joker",
+		"effect": "Every played card permanently gains +5 Chips when scored",
+		"rarity": "Uncommon",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/Gros_Michel",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Faceless Joker",
+		"type": "Joker",
+		"effect": "Earn $5 if 3 or more face cards are discarded at the same time ",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Faceless_Joker",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Green Joker",
+		"type": "Joker",
+		"effect": "+1 Mult per hand played. -1 Mult per discard",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Green_Joker",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Superposition",
+		"type": "Joker",
+		"effect": "Create a Tarot card if poker hand contains an Ace and a Straight (Must have room)",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Superposition",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "To Do List",
+		"type": "Joker",
+		"effect": "Earn $4 if poker hand is a [Poker Hand], poker hand changes at end of round",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/To_Do_List",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Cavendish",
+		"type": "Joker",
+		"effect": "X3 Mult. 1 in 1000 chance this card is destroyed at the end of round",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Cavendish",
+		"unlock": "N/A",
+		"notes": "Will not appear in the shop unless Gros Michel has destroyed itself during the current run."
+	},
+	{
+		"name": "Card Sharp",
+		"type": "Joker",
+		"effect": "X3 Mult if played poker hand has already been played this round",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Card_Sharp",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Red Card",
+		"type": "Joker",
+		"effect": "This Joker gains +3 Mult when any Booster Pack is skipped",
+		"rarity": "Common",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/Red_Card",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Madness",
+		"type": "Joker",
+		"effect": "When Small Blind or Big Blind is selected, gain X0.5 Mult and destroy a random Joker",
+		"rarity": "Uncommon",
+		"cost": 7,
+		"link": "https://balatrogame.fandom.com/wiki/Madness",
+		"unlock": "N/A",
+		"notes": "Cannot destroy Eternal Jokers. If no Jokers can be destroyed, X0.5 Mult will still be gained."
+	},
+	{
+		"name": "Square Joker",
+		"type": "Joker",
+		"effect": "This Joker gains +4 Chips if played hand has exactly 4 cards",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Square_Joker",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Séance",
+		"type": "Joker",
+		"effect": "If poker hand is a Straight Flush, create a random Spectral card (Must have room)",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Séance",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Riff-Raff",
+		"type": "Joker",
+		"effect": "When Blind is selected, create 2 Common Jokers (Must have room)",
+		"rarity": "Common",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Riff_Raff",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Vampire",
+		"type": "Joker",
+		"effect": "This Joker gains X0.1 Mult per scoring Enhanced card played, removes card Enhancement",
+		"rarity": "Uncommon",
+		"cost": 7,
+		"link": "https://balatrogame.fandom.com/wiki/Vampire",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Shortcut",
+		"type": "Joker",
+		"effect": "Allows Straights to be made with gaps of 1 rank (ex: 10 8 6 5 3)",
+		"rarity": "Uncommon",
+		"cost": 7,
+		"link": "https://balatrogame.fandom.com/wiki/Splash",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Hologram",
+		"type": "Joker",
+		"effect": "This Joker gains X0.25 Mult every time a playing card is added to your deck ",
+		"rarity": "Uncommon",
+		"cost": 7,
+		"link": "https://balatrogame.fandom.com/wiki/Hologram",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Vagabond",
+		"type": "Joker",
+		"effect": "Create a Tarot card if hand is played with $4 or less",
+		"rarity": "Rare",
+		"cost": 8,
+		"link": "https://balatrogame.fandom.com/wiki/Vagabond",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Baron",
+		"type": "Joker",
+		"effect": "Each King held in hand gives X1.5 Mult",
+		"rarity": "Rare",
+		"cost": 8,
+		"link": "https://balatrogame.fandom.com/wiki/Baron",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Cloud 9",
+		"type": "Joker",
+		"effect": "Earn $1 for each 9 in your full deck at end of round ",
+		"rarity": "Uncommon",
+		"cost": 7,
+		"link": "https://balatrogame.fandom.com/wiki/Cloud_9",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Rocket",
+		"type": "Joker",
+		"effect": "Earn $1 at end of round. Payout increases by $2 when Boss Blind is defeated",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Rocket",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Obelisk",
+		"type": "Joker",
+		"effect": "This Joker gains X0.2 Mult per consecutive hand played without playing your most played poker hand",
+		"rarity": "Rare",
+		"cost": 8,
+		"link": "https://balatrogame.fandom.com/wiki/Obelisk",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Midas Mask",
+		"type": "Joker",
+		"effect": "All played face cards become Gold cards when scored",
+		"rarity": "Uncommon",
+		"cost": 7,
+		"link": "https://balatrogame.fandom.com/wiki/Midas_Mask",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Luchador",
+		"type": "Joker",
+		"effect": "Sell this card to disable the current Boss Blind",
+		"rarity": "Uncommon",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/Luchador",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Photograph",
+		"type": "Joker",
+		"effect": "First played face card gives X2 Mult when scored ",
+		"rarity": "Common",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/Photograph",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Gift Card",
+		"type": "Joker",
+		"effect": "Add $1 of sell value to every Joker and Consumable card at end of round",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Gift_Card",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Turtle Bean",
+		"type": "Joker",
+		"effect": "+5 hand size, reduces by 1 each round",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Turtle_Bean",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Erosion",
+		"type": "Joker",
+		"effect": "+4 Mult for each card below [the deck's starting size] in your full deck",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Erosion",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Reserved Parking",
+		"type": "Joker",
+		"effect": "Each face card held in hand has a 1 in 2 chance to give $1",
+		"rarity": "Common",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Reserved_Parking",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Mail-In Rebate",
+		"type": "Joker",
+		"effect": "Earn $5 for each discarded [rank], rank changes every round",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Mail-In_Rebate",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "To the Moon",
+		"type": "Joker",
+		"effect": "Earn an extra $1 of interest for every $5 you have at end of round",
+		"rarity": "Uncommon",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/To_the_Moon",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Hallucination",
+		"type": "Joker",
+		"effect": "1 in 2 chance to create a Tarot card when any Booster Pack is opened (Must have room)",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Hallucination",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Fortune Teller",
+		"type": "Joker",
+		"effect": "+1 Mult per Tarot card used this run ",
+		"rarity": "Common",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Fortune_Teller",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Juggler",
+		"type": "Joker",
+		"effect": "+1 hand size",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Juggler",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Drunkard",
+		"type": "Joker",
+		"effect": "+1 discard each round",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Drunkard",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Stone Joker",
+		"type": "Joker",
+		"effect": "Gives +25 Chips for each Stone Card in your full deck ",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Stone_Joker",
+		"unlock": "N/A",
+		"notes": "Will not appear in the shop unless the player has a Stone Card in their deck."
+	},
+	{
+		"name": "Golden Joker",
+		"type": "Joker",
+		"effect": "Earn $4 at end of round",
+		"rarity": "Common",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Golden_Joker",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Lucky Cat",
+		"type": "Joker",
+		"effect": "This Joker gains X0.25 Mult every time a Lucky card successfully triggers",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Lucky_Cat",
+		"unlock": "N/A",
+		"notes": "Will not appear in the shop unless the player has a Lucky Card in their deck."
+	},
+	{
+		"name": "Baseball Card",
+		"type": "Joker",
+		"effect": "Uncommon Jokers each give X1.5 Mult",
+		"rarity": "Rare",
+		"cost": 8,
+		"link": "https://balatrogame.fandom.com/wiki/Baseball_Card",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Bull",
+		"type": "Joker",
+		"effect": "+2 Chips for each $1 you have ",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Bull",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Diet Cola",
+		"type": "Joker",
+		"effect": "Sell this card to create a free Double Tag",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Diet_Cola",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Trading Card",
+		"type": "Joker",
+		"effect": "If first discard of round has only 1 card, destroy it and earn $3",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Trading_Card",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Flash Card",
+		"type": "Joker",
+		"effect": "This Joker gains +2 Mult per reroll in the shop ",
+		"rarity": "Uncommon",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/Flash_Card",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Popcorn",
+		"type": "Joker",
+		"effect": "+20 Mult. -4 Mult per round played",
+		"rarity": "Common",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/Popcorn",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Spare Trousers",
+		"type": "Joker",
+		"effect": "This Joker gains +2 Mult if played hand contains a Two Pair",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Spare_Trousers",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Ancient Joker",
+		"type": "Joker",
+		"effect": "Each played card with [suit] gives X1.5 Mult when scored, suit changes at end of round",
+		"rarity": "Rare",
+		"cost": 8,
+		"link": "https://balatrogame.fandom.com/wiki/Ancient_Joker",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Ramen",
+		"type": "Joker",
+		"effect": "X2 Mult, loses X0.01 Mult per card discarded",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Ramen",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Walkie Talkie",
+		"type": "Joker",
+		"effect": "Each played 10 or 4 gives +10 Chips and +4 Mult when scored",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Walkie_Talkie",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Seltzer",
+		"type": "Joker",
+		"effect": "Retrigger all cards played for the next 10 hands",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Seltzer",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Castle",
+		"type": "Joker",
+		"effect": "This Joker gains +3 Chips per discarded [suit] card, suit changes every round",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Castle",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Smiley Face",
+		"type": "Joker",
+		"effect": "Played face cards give +5 Mult when scored",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Smiley_Face",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Campfire",
+		"type": "Joker",
+		"effect": "This Joker gains X0.25 Mult for each card sold, resets when Boss Blind is defeated",
+		"rarity": "Rare",
+		"cost": 9,
+		"link": "https://balatrogame.fandom.com/wiki/Campfire",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Golden Ticket",
+		"type": "Joker",
+		"effect": "Played Gold cards earn $4 when scored",
+		"rarity": "Common",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/Golden_Ticket",
+		"unlock": "Play a 5 card hand that contains only Gold cards.",
+		"notes": "Will not appear in the shop unless the player has a Lucky Card in their deck."
+	},
+	{
+		"name": "Mr. Bones",
+		"type": "Joker",
+		"effect": "Prevents Death if chips scored are at least 25% of required chips. Self destructs",
+		"rarity": "Uncommon",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/Mr._Bones",
+		"unlock": "Lose five runs.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Acrobat",
+		"type": "Joker",
+		"effect": "X3 Mult on final hand of round",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Acrobat",
+		"unlock": "Play 200 hands.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Sock and Buskin",
+		"type": "Joker",
+		"effect": "Retrigger all played face cards",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Sock_and_Buskin",
+		"unlock": "Play 300 face cards across all runs.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Swashbuckler",
+		"type": "Joker",
+		"effect": "Adds the sell value of all other owned Jokers to Mult",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Swashbuckler",
+		"unlock": "Sell 20 Jokers.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Troubadour",
+		"type": "Joker",
+		"effect": "+2 hand size, -1 hand per round",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Troubadour",
+		"unlock": "Win 5 consecutive rounds by playing only a single hand in each. (Discards are fine.)",
+		"notes": "N/A"
+	},
+	{
+		"name": "Certificate",
+		"type": "Joker",
+		"effect": "When round begins, add a random playing card with a random seal to your hand",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Certificate",
+		"unlock": "Have a Gold card with a Gold Seal.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Smeared Joker",
+		"type": "Joker",
+		"effect": "Hearts and Diamonds count as the same suit, Spades and Clubs count as the same suit",
+		"rarity": "Uncommon",
+		"cost": 7,
+		"link": "https://balatrogame.fandom.com/wiki/Smeared_Joker",
+		"unlock": "Have 3 or more Wild Cards in your deck.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Throwback",
+		"type": "Joker",
+		"effect": "X0.25 Mult for each Blind skipped this run",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Throwback",
+		"unlock": "Continue a run from the Main Menu.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Hanging Chad",
+		"type": "Joker",
+		"effect": "Retrigger first played card used in scoring 2 additional times",
+		"rarity": "Common",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Hanging_Chad",
+		"unlock": "Beat a Boss Blind with a High Card hand.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Rough Gem",
+		"type": "Joker",
+		"effect": "Played cards with Diamond suit earn $1 when scored",
+		"rarity": "Uncommon",
+		"cost": 7,
+		"link": "https://balatrogame.fandom.com/wiki/Rough_Gem",
+		"unlock": "Have at least 30 Diamonds in your deck.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Bloodstone",
+		"type": "Joker",
+		"effect": "1 in 2 chance for played cards with Heart suit to give X1.5 Mult when scored",
+		"rarity": "Uncommon",
+		"cost": 7,
+		"link": "https://balatrogame.fandom.com/wiki/Bloodstone",
+		"unlock": "Have at least 30 Hearts in your deck. ",
+		"notes": "N/A"
+	},
+	{
+		"name": "Arrowhead",
+		"type": "Joker",
+		"effect": "Played cards with Spade suit give +50 Chips when scored",
+		"rarity": "Uncommon",
+		"cost": 7,
+		"link": "https://balatrogame.fandom.com/wiki/Arrowhead",
+		"unlock": "Have at least 30 Spades in your deck.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Onyx Agate",
+		"type": "Joker",
+		"effect": "Played cards with Club suit give +7 Mult when scored",
+		"rarity": "Uncommon",
+		"cost": 7,
+		"link": "https://balatrogame.fandom.com/wiki/Onyx_Agate",
+		"unlock": "Have at least 30 Clubs in your deck.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Glass Joker",
+		"type": "Joker",
+		"effect": "This Joker gains X0.75 Mult for every Glass Card that is destroyed",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Glass_Joker",
+		"unlock": "Have 5 or more Glass cards in your deck.",
+		"notes": "Will not appear in the shop unless the player has a Lucky Card in their deck."
+	},
+	{
+		"name": "Showman",
+		"type": "Joker",
+		"effect": "Joker, Tarot, Planet, and Spectral cards may appear multiple times",
+		"rarity": "Uncommon",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/Showman",
+		"unlock": "Reach Ante level 4.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Flower Pot",
+		"type": "Joker",
+		"effect": "X3 Mult if poker hand contains a Diamond card, Club card, Heart card, and Spade card",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Flower_Pot",
+		"unlock": "Reach Ante level 8.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Blueprint",
+		"type": "Joker",
+		"effect": "Copies ability of Joker to the right",
+		"rarity": "Rare",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Blueprint",
+		"unlock": "Win a run.",
+		"notes": "Not compatible with every Joker."
+	},
+	{
+		"name": "Wee Joker",
+		"type": "Joker",
+		"effect": "This Joker gains +8 Chips when each played 2 is scored",
+		"rarity": "Rare",
+		"cost": 8,
+		"link": "https://balatrogame.fandom.com/wiki/Wee_Joker",
+		"unlock": "Win a run in 18 or fewer rounds.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Merry Andy",
+		"type": "Joker",
+		"effect": "+3 discards each round, -1 hand size",
+		"rarity": "Uncommon",
+		"cost": 7,
+		"link": "https://balatrogame.fandom.com/wiki/Merry_Andy",
+		"unlock": "Win a run in 12 or fewer rounds.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Oops! All 6s",
+		"type": "Joker",
+		"effect": "Doubles all listed probabilities (ex: 1 in 3 -> 2 in 3)",
+		"rarity": "Uncommon",
+		"cost": 4,
+		"link": "https://balatrogame.fandom.com/wiki/Oops!_All_6s",
+		"unlock": "Earn at least 10,000 Chips in a single hand.",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Idol",
+		"type": "Joker",
+		"effect": "Each played [rank] of [suit] gives X2 Mult when scored. Card changes every round",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/The_Idol",
+		"unlock": "Earn at least 1,000,000 Chips in a single hand.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Seeing Double",
+		"type": "Joker",
+		"effect": "X2 Mult if played hand has a scoring Club card and a scoring card of any other suit",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Seeing_Double",
+		"unlock": "Play a hand that contains four 7 of Clubs. Other suits that count as clubs (e.g. wild suits) with rank 7 will also count.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Matador",
+		"type": "Joker",
+		"effect": "Earn $8 if played hand triggers the Boss Blind ability",
+		"rarity": "Uncommon",
+		"cost": 7,
+		"link": "https://balatrogame.fandom.com/wiki/Matador",
+		"unlock": "Defeat a Boss Blind in one hand, without using discards.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Hit the Road",
+		"type": "Joker",
+		"effect": "This Joker gains X0.5 Mult for every Jack discarded this round",
+		"rarity": "Rare",
+		"cost": 8,
+		"link": "https://balatrogame.fandom.com/wiki/Hit_the_Road",
+		"unlock": "Discard 5 Jacks at the same time.",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Duo",
+		"type": "Joker",
+		"effect": "X2 Mult if played hand contains a Pair",
+		"rarity": "Rare",
+		"cost": 8,
+		"link": "https://balatrogame.fandom.com/wiki/The_Duo",
+		"unlock": "Win a run without playing a Pair.",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Trio",
+		"type": "Joker",
+		"effect": "X3 Mult if played hand contains a Three of a Kind",
+		"rarity": "Rare",
+		"cost": 8,
+		"link": "https://balatrogame.fandom.com/wiki/The_Trio",
+		"unlock": "Win a run without playing a Three of a Kind.",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Family",
+		"type": "Joker",
+		"effect": "X4 Mult if played hand contains a Four of a Kind",
+		"rarity": "Rare",
+		"cost": 8,
+		"link": "https://balatrogame.fandom.com/wiki/The_Family",
+		"unlock": "Win a run without playing a Four of a Kind.",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Order",
+		"type": "Joker",
+		"effect": "X3 Mult if played hand contains a Straight",
+		"rarity": "Rare",
+		"cost": 8,
+		"link": "https://balatrogame.fandom.com/wiki/The_Order",
+		"unlock": "Win a run without playing a Straight.",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Tribe",
+		"type": "Joker",
+		"effect": "X2 Mult if played hand contains a Flush",
+		"rarity": "Rare",
+		"cost": 8,
+		"link": "https://balatrogame.fandom.com/wiki/The_Tribe",
+		"unlock": "Win a run without playing a Flush.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Stuntman",
+		"type": "Joker",
+		"effect": "+250 Chips, -2 hand size ",
+		"rarity": "Rare",
+		"cost": 7,
+		"link": "https://balatrogame.fandom.com/wiki/Stuntman",
+		"unlock": "Earn at least 100 million (100,000,000) Chips in a single hand.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Invisible Joker",
+		"type": "Joker",
+		"effect": "After 2 rounds, sell this card to Duplicate a random Joker",
+		"rarity": "Rare",
+		"cost": 8,
+		"link": "https://balatrogame.fandom.com/wiki/Invisible_Joker",
+		"unlock": "Win a game while never having more than 4 jokers.",
+		"notes": "Removes Negative from copy"
+	},
+	{
+		"name": "Brainstorm",
+		"type": "Joker",
+		"effect": "Copies the ability of leftmost Joker",
+		"rarity": "Rare",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Brainstorm",
+		"unlock": "Discard a Royal Flush.",
+		"notes": "Not compatible with every Joker."
+	},
+	{
+		"name": "Satellite",
+		"type": "Joker",
+		"effect": "Earn $1 at end of round per unique Planet card used this run",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Satellite",
+		"unlock": "Have at least $400.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Shoot the Moon",
+		"type": "Joker",
+		"effect": "Each Queen held in hand gives +13 Mult",
+		"rarity": "Common",
+		"cost": 5,
+		"link": "https://balatrogame.fandom.com/wiki/Shoot_the_Moon",
+		"unlock": "Play every Heart card in your deck in one round.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Driver's License",
+		"type": "Joker",
+		"effect": "X3 Mult if you have at least 16 Enhanced cards in your full deck ",
+		"rarity": "Rare",
+		"cost": 7,
+		"link": "https://balatrogame.fandom.com/wiki/The_Tribe",
+		"unlock": "Enhance 16 cards in your deck .",
+		"notes": "N/A"
+	},
+	{
+		"name": "Cartomancer",
+		"type": "Joker",
+		"effect": "Create a Tarot card when Blind is selected (Must have room)",
+		"rarity": "Uncommon",
+		"cost": 6,
+		"link": "https://balatrogame.fandom.com/wiki/Cartomancer",
+		"unlock": "Discover every Tarot Card.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Astronomer",
+		"type": "Joker",
+		"effect": "All Planet cards and Celestial Packs in the shop are free",
+		"rarity": "Uncommon",
+		"cost": 8,
+		"link": "https://balatrogame.fandom.com/wiki/Astronomer",
+		"unlock": "Discover all Planet cards.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Burnt Joker",
+		"type": "Joker",
+		"effect": "Upgrade the level of the first discarded poker hand each round",
+		"rarity": "Rare",
+		"cost": 8,
+		"link": "https://balatrogame.fandom.com/wiki/Burnt_Joker",
+		"unlock": "Sell 50 cards.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Bootstraps",
+		"type": "Joker",
+		"effect": "+2 Mult for every $5 you have",
+		"rarity": "Uncommon",
+		"cost": 7,
+		"link": "https://balatrogame.fandom.com/wiki/Bootstraps",
+		"unlock": "Have at least 2 Polychrome Jokers at the same time.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Canio",
+		"type": "Joker",
+		"effect": "This Joker gains X1 Mult when a face card is destroyed",
+		"rarity": "Legendary",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Canio",
+		"unlock": "Find this Joker from the Soul card.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Triboulet",
+		"type": "Joker",
+		"effect": "Played Kings and Queens each give X2 Mult when scored",
+		"rarity": "Legendary",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Triboulet",
+		"unlock": "Find this Joker from the Soul card.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Yorick",
+		"type": "Joker",
+		"effect": "This Joker gains X1 Mult every 23 [23] cards discarded",
+		"rarity": "Legendary",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Yorick",
+		"unlock": "Find this Joker from the Soul card.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Chicot",
+		"type": "Joker",
+		"effect": "Disables effect of every Boss Blind",
+		"rarity": "Legendary",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Chicot",
+		"unlock": "Find this Joker from the Soul card.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Perkeo",
+		"type": "Joker",
+		"effect": "Creates a Negative copy of 1 random consumable card in your possession at the end of the shop",
+		"rarity": "Legendary",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Canio",
+		"unlock": "Find this Joker from the Soul card.",
+		"notes": "N/A"
+	},
+	{
+		"name": "Overstock",
+		"type": "Voucher",
+		"effect": "+1 card slot available in shop (to 3 slots)",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "N/A",
+		"notes": "Also immediately restocks any empty card slots in the Shop when purchased."
+	},
+	{
+		"name": "Overstock Plus",
+		"type": "Voucher",
+		"effect": "+1 card slot available in shop (to 4 slots)",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "Spend a total of $2500 at the shop",
+		"notes": "Also immediately restocks any empty card slots in the Shop when purchased."
+	},
+	{
+		"name": "Clearance Sale",
+		"type": "Voucher",
+		"effect": "All cards and packs in shop are 25% off",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "N/A",
+		"notes": "Also reduces the sell value of your present jokers. Prices are rounded half down."
+	},
+	{
+		"name": "Liquidation",
+		"type": "Voucher",
+		"effect": "+1 Mult per Tarot card used this run",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "Redeem at least 10 Voucher cards in one run",
+		"notes": "Also reduces the sell value of your present jokers. Prices are rounded half down."
+	},
+	{
+		"name": "Hone",
+		"type": "Voucher",
+		"effect": "Foil, Holographic, and Polychrome cards appear 2x more often",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "N/A",
+		"notes": "Polychrome on Jokers actually appears 3x more often."
+	},
+	{
+		"name": "Glow Up",
+		"type": "Voucher",
+		"effect": "Foil, Holographic, and Polychrome cards appear 4x more often",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "Have at least 5 Joker cards with Foil, Holographic, or Polychrome (or Negative) effect",
+		"notes": "Polychrome on Jokers actually appears 7x more often."
+	},
+	{
+		"name": "Reroll Surplus",
+		"type": "Voucher",
+		"effect": "Rerolls cost $2 less",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Reroll Glut",
+		"type": "Voucher",
+		"effect": "Rerolls cost an additional $2 less",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "Reroll the shop a total of 100 times",
+		"notes": "N/A"
+	},
+	{
+		"name": "Crystal Ball",
+		"type": "Voucher",
+		"effect": "+1 consumable slot ",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Omen Globe",
+		"type": "Voucher",
+		"effect": "Spectral cards may appear in any of the Arcana Packs",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "Use a total of 25 Tarot cards from booster packs",
+		"notes": "N/A"
+	},
+	{
+		"name": "Telescope",
+		"type": "Voucher",
+		"effect": "Celestial Packs always contain the Planet card for your most played poker hand",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "N/A",
+		"notes": "Picks the higher tier hand in case of multiple most played hands."
+	},{
+		"name": "Observatory",
+		"type": "Voucher",
+		"effect": "Planet cards in your consumable area give X1.5 Mult for their specified poker hand",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "Use a total of 25 Planet cards from booster packs",
+		"notes": "N/A"
+	},
+	{
+		"name": "Grabber",
+		"type": "Voucher",
+		"effect": "Permanently gain +1 hand per round",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Nacho Tong",
+		"type": "Voucher",
+		"effect": "Permanently gain an additional +1 hand per round",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "Play a total of 2500 cards",
+		"notes": "N/A"
+	},
+	{
+		"name": "Wasteful",
+		"type": "Voucher",
+		"effect": "Permanently gain +1 discard each round",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Recyclomancy",
+		"type": "Voucher",
+		"effect": "Permanently gain an additional +1 discard each round ",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "Discard a total of 2500 cards",
+		"notes": "N/A"
+	},
+	{
+		"name": "Tarot Merchant",
+		"type": "Voucher",
+		"effect": "Tarot cards appear 2X more frequently in the shop",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Tarot Tycoon",
+		"type": "Voucher",
+		"effect": "Tarot cards appear 4X more frequently in the shop",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "Buy a total of 50 Tarot cards from the shop",
+		"notes": "N/A"
+	},
+	{
+		"name": "Planet Merchant",
+		"type": "Voucher",
+		"effect": "Planet cards appear 2X more frequently in the shop",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Planet Tycoon",
+		"type": "Voucher",
+		"effect": "Planet cards appear 4X more frequently in the shop",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "Buy a total of 50 Planet cards from the shop",
+		"notes": "N/A"
+	},
+	{
+		"name": "Seed Money",
+		"type": "Voucher",
+		"effect": "Raise the cap on interest earned in each round to $10",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "N/A",
+		"notes": "Does nothing when playing the Green Deck."
+	},
+	{
+		"name": "Money Tree",
+		"type": "Voucher",
+		"effect": "Raise the cap on interest earned in each round to $20",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "Max out the interest per round earnings for ten consecutive rounds.",
+		"notes": "Does nothing when playing the Green Deck."
+	},
+	{
+		"name": "Blank",
+		"type": "Voucher",
+		"effect": "Does nothing?",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "N/A",
+		"notes": "Buy a total of 10 times to unlock the Antimatter voucher."
+	},
+	{
+		"name": "Antimatter",
+		"type": "Voucher",
+		"effect": "+1 Joker slot",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "Redeem Blank 10 total times",
+		"notes": "N/A"
+	},
+	{
+		"name": "Magic Trick",
+		"type": "Voucher",
+		"effect": "Playing cards can be purchased from the shop",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Illusion",
+		"type": "Voucher",
+		"effect": "Playing cards in shop may have an Enhancement, Edition, and/or a Seal",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "Buy a total of 20 Playing cards from the shop ",
+		"notes": "Illusion is currently (v1.0.1g-FULL) bugged, and cards in the shop cannot have seals, only enhancements and/or editions"
+	},
+	{
+		"name": "Hieroglyph",
+		"type": "Voucher",
+		"effect": "-1 Ante, -1 hand each round",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Petroglyph",
+		"type": "Voucher",
+		"effect": "-1 Ante, -1 discard each round ",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "Reach Ante level 12",
+		"notes": "N/A"
+	},
+	{
+		"name": "Director's Cut",
+		"type": "Voucher",
+		"effect": "Reroll Boss Blind 1 time per Ante, $10 per roll",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Retcon",
+		"type": "Voucher",
+		"effect": "Reroll Boss Blind unlimited times, $10 per roll ",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "Discover 25 Blinds",
+		"notes": "N/A"
+	},
+	{
+		"name": "Paint Brush",
+		"type": "Voucher",
+		"effect": "+1 hand size",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Palette",
+		"type": "Voucher",
+		"effect": "+1 hand size again",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Vouchers",
+		"unlock": "Reduce your hand size down to 5 cards",
+		"notes": "N/A"
+	},
+	{
+		"name": "Small Blind",
+		"type": "Blind",
+		"effect": "No special effects - can be skipped to receive a Tag",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Big Blind",
+		"type": "Blind",
+		"effect": "No special effects - can be skipped to receive a Tag",
+		"rarity": "N/A",
+		"cost": 15,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Hook",
+		"type": "Blind",
+		"effect": "Discards 2 random cards held in hand after every played hand",
+		"rarity": "N/A",
+		"cost": 20,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Ox",
+		"type": "Blind",
+		"effect": "Playing your most played hand this run sets money to $0 ",
+		"rarity": "N/A",
+		"cost": 20,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The House",
+		"type": "Blind",
+		"effect": "First hand is drawn face down",
+		"rarity": "N/A",
+		"cost": 20,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Wall",
+		"type": "Blind",
+		"effect": "Extra large blind",
+		"rarity": "N/A",
+		"cost": 40,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Wheel",
+		"type": "Blind",
+		"effect": "1 in 7 cards get drawn face down during the round ",
+		"rarity": "N/A",
+		"cost": 20,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Arm",
+		"type": "Blind",
+		"effect": "Decrease level of played poker hand by 1",
+		"rarity": "N/A",
+		"cost": 20,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "Hand levels can go as low as Level 1, and are reduced before scoring."
+	},
+	{
+		"name": "The Club",
+		"type": "Blind",
+		"effect": "All Club cards are debuffed",
+		"rarity": "N/A",
+		"cost": 20,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Fish",
+		"type": "Blind",
+		"effect": "Cards drawn face down after each hand played",
+		"rarity": "N/A",
+		"cost": 20,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Psychic",
+		"type": "Blind",
+		"effect": "Must play 5 cards",
+		"rarity": "N/A",
+		"cost": 20,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "Not all cards need to score"
+	},
+	{
+		"name": "The Goad",
+		"type": "Blind",
+		"effect": "All Spade cards are debuffed",
+		"rarity": "N/A",
+		"cost": 20,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Water",
+		"type": "Blind",
+		"effect": "Start with 0 discards",
+		"rarity": "N/A",
+		"cost": 20,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Window",
+		"type": "Blind",
+		"effect": "All Diamond cards are debuffed",
+		"rarity": "N/A",
+		"cost": 20,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Manacle",
+		"type": "Blind",
+		"effect": "-1 Hand Size ",
+		"rarity": "N/A",
+		"cost": 20,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Eye",
+		"type": "Blind",
+		"effect": "No repeat hand types this round",
+		"rarity": "N/A",
+		"cost": 20,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Mouth",
+		"type": "Blind",
+		"effect": "Only one hand type can be played this round",
+		"rarity": "N/A",
+		"cost": 20,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Plant",
+		"type": "Blind",
+		"effect": "All face cards are debuffed",
+		"rarity": "N/A",
+		"cost": 20,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Serpent",
+		"type": "Blind",
+		"effect": "After Play or Discard, always draw 3 cards",
+		"rarity": "N/A",
+		"cost": 20,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Pillar",
+		"type": "Blind",
+		"effect": "Cards played previously this Ante (during Small and Big Blinds) are debuffed",
+		"rarity": "N/A",
+		"cost": 20,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Needle",
+		"type": "Blind",
+		"effect": "Play only 1 hand",
+		"rarity": "N/A",
+		"cost": 10,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Head",
+		"type": "Blind",
+		"effect": "All Heart cards are debuffed",
+		"rarity": "N/A",
+		"cost": 20,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Tooth",
+		"type": "Blind",
+		"effect": "Lose $1 per card played",
+		"rarity": "N/A",
+		"cost": 20,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Flint",
+		"type": "Blind",
+		"effect": "Base Chips and Mult for played poker hands are halved for the entire round",
+		"rarity": "N/A",
+		"cost": 20,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Mark",
+		"type": "Blind",
+		"effect": "All face cards are drawn face down",
+		"rarity": "N/A",
+		"cost": 20,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Amber Acorn",
+		"type": "Blind",
+		"effect": "Flips and shuffles all Joker cards",
+		"rarity": "N/A",
+		"cost": 20,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Verdant Leaf",
+		"type": "Blind",
+		"effect": "All cards debuffed until 1 Joker sold ",
+		"rarity": "N/A",
+		"cost": 20,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Violet Vessel",
+		"type": "Blind",
+		"effect": "Very large blind",
+		"rarity": "N/A",
+		"cost": 60,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Crimson Heart",
+		"type": "Blind",
+		"effect": "One random Joker disabled every hand (changes every hand)",
+		"rarity": "N/A",
+		"cost": 20,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Cerulean Bell",
+		"type": "Blind",
+		"effect": "Forces 1 card to always be selected",
+		"rarity": "N/A",
+		"cost": 20,
+		"link": "https://balatrogame.fandom.com/wiki/Blinds_and_Antes",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Fool",
+		"type": "Tarot Card",
+		"effect": "Creates the last Tarot or Planet card used during this run (The Fool excluded)",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Tarot_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Magician",
+		"type": "Tarot Card",
+		"effect": "Enhances 2 selected cards to Lucky Cards",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Tarot_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The High Priestess",
+		"type": "Tarot Card",
+		"effect": "Creates up to 2 random Planet cards (Must have room)",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Tarot_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Empress",
+		"type": "Tarot Card",
+		"effect": "Enhances 2 selected cards to Mult Cards",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Tarot_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Emperor",
+		"type": "Tarot Card",
+		"effect": "Creates up to 2 random Tarot cards (Must have room)",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Tarot_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Hierophant",
+		"type": "Tarot Card",
+		"effect": "Enhances 2 selected cards to Bonus Cards",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Tarot_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Lovers",
+		"type": "Tarot Card",
+		"effect": "Enhances 1 selected card into a Wild Card",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Tarot_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Chariot",
+		"type": "Tarot Card",
+		"effect": "Enhances 1 selected card into a Steel Card",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Tarot_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Justice",
+		"type": "Tarot Card",
+		"effect": "Enhances 1 selected card into a Glass Card",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Tarot_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Hermit",
+		"type": "Tarot Card",
+		"effect": "Doubles money (Max of $20)",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Tarot_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Wheel of Fortune",
+		"type": "Tarot Card",
+		"effect": "1 in 4 chance to add Foil, Holographic, or Polychrome edition to a random Joker",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Tarot_Cards",
+		"unlock": "N/A",
+		"notes": "12.5% chance of giving Foil, 8.75% chance for Holographic, and a 3.75% chance of Polychrome"
+	},
+	{
+		"name": "Strength",
+		"type": "Tarot Card",
+		"effect": "Increases rank of up to 2 selected cards by 1",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Tarot_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Hanged Man",
+		"type": "Tarot Card",
+		"effect": "Destroys up to 2 selected cards",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Tarot_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Death",
+		"type": "Tarot Card",
+		"effect": "Select 2 cards, convert the left card into the right card (Drag to rearrange)",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Tarot_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Temperance",
+		"type": "Tarot Card",
+		"effect": "Gives the total sell value of all current Jokers (Max of $50)",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Tarot_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Devil",
+		"type": "Tarot Card",
+		"effect": "Enhances 1 selected card into a Gold Card",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Tarot_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Tower",
+		"type": "Tarot Card",
+		"effect": "Enhances 1 selected card into a Stone Card",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Tarot_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Star",
+		"type": "Tarot Card",
+		"effect": "Converts up to 3 selected cards to Diamonds",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Tarot_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Moon",
+		"type": "Tarot Card",
+		"effect": "Converts up to 3 selected cards to Clubs",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Tarot_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Sun",
+		"type": "Tarot Card",
+		"effect": "Converts up to 3 selected cards to Hearts",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Tarot_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Judgement",
+		"type": "Tarot Card",
+		"effect": "Creates a random Joker card (Must have room)",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Tarot_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The World",
+		"type": "Tarot Card",
+		"effect": "Converts up to 3 selected cards to Spades",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Tarot_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Pluto",
+		"type": "Planet Card",
+		"effect": "+1 Mult and +10 Chips to High Card",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Planet_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Mercury",
+		"type": "Planet Card",
+		"effect": "+1 Mult and +15 Chips to Pair",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Planet_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Uranus",
+		"type": "Planet Card",
+		"effect": "+1 Mult and +20 Chips to Two Pair",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Planet_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Venus",
+		"type": "Planet Card",
+		"effect": "+2 Mult and +20 Chips to Three of a Kind",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Planet_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Saturn",
+		"type": "Planet Card",
+		"effect": "+3 Mult and +30 Chips to Straight",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Planet_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Jupiter",
+		"type": "Planet Card",
+		"effect": "+2 Mult and +15 Chips to Flush",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Planet_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Earth",
+		"type": "Planet Card",
+		"effect": "+2 Mult and +25 Chips to Full House",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Planet_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Mars",
+		"type": "Planet Card",
+		"effect": "+3 Mult and +30 Chips to Four of a Kind",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Planet_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Neptune",
+		"type": "Planet Card",
+		"effect": "+4 Mult and +40 Chips to Straight Flush",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Planet_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Planet X",
+		"type": "Planet Card",
+		"effect": "+3 Mult and +35 Chips to Five of a Kind",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Planet_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Ceres",
+		"type": "Planet Card",
+		"effect": "+4 Mult and +40 Chips to Flush House",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Planet_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Eris",
+		"type": "Planet Card",
+		"effect": "+3 Mult and +50 Chips to Flush Five",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Planet_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Familiar",
+		"type": "Spectral Card",
+		"effect": "Destroy 1 random card in your hand, but add 3 random Enhanced face cards instead",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Spectral_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Grim",
+		"type": "Spectral Card",
+		"effect": "Destroy 1 random card in your hand, but add 2 random Enhanced Aces instead",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Spectral_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Incantation",
+		"type": "Spectral Card",
+		"effect": "Destroy 1 random card in your hand, but add 4 random Enhanced numbered cards instead",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Spectral_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Talisman",
+		"type": "Spectral Card",
+		"effect": "Add a Gold Seal to 1 selected card",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Spectral_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Aura",
+		"type": "Spectral Card",
+		"effect": "Add Foil, Holographic, or Polychrome edition (determined at random) to 1 selected card in hand",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Spectral_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Wraith",
+		"type": "Spectral Card",
+		"effect": "Creates a random Rare Joker (must have room), but sets money to $0",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Spectral_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Sigil",
+		"type": "Spectral Card",
+		"effect": "Converts all cards in hand to a single random suit",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Spectral_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Ouija",
+		"type": "Spectral Card",
+		"effect": "Converts all cards in hand to a single random rank, but -1 hand size",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Spectral_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Ectoplasm",
+		"type": "Spectral Card",
+		"effect": "Add Negative to a random Joker, but -1 hand size",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Spectral_Cards",
+		"unlock": "N/A",
+		"notes": "(Hand size reduction on use increases by 1 for every time Ectoplasm is used in a run, eg. using Ectoplasm 3 times in the same run decreases hand size by a total of 6 (1+2+3)"
+	},
+	{
+		"name": "Immolate",
+		"type": "Spectral Card",
+		"effect": "Destroys 5 random cards in hand, but gain $20",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Spectral_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Ankh",
+		"type": "Spectral Card",
+		"effect": "Creates a copy of 1 of your Jokers at random, then destroys the others, leaving you with two identical Jokers",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Spectral_Cards",
+		"unlock": "N/A",
+		"notes": "Editions are also copied, except Negative."
+	},
+	{
+		"name": "Deja Vu",
+		"type": "Spectral Card",
+		"effect": "Adds a Red Seal to 1 selected card",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Spectral_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Hex",
+		"type": "Spectral Card",
+		"effect": "Adds Polychrome to a random Joker, and destroys the rest",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Spectral_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Trance",
+		"type": "Spectral Card",
+		"effect": "Adds a Blue Seal to 1 selected card",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Spectral_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Medium",
+		"type": "Spectral Card",
+		"effect": "Adds a Purple Seal to 1 selected card",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Spectral_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Cryptid",
+		"type": "Spectral Card",
+		"effect": "Creates 2 exact copies (including Enhancements, Editions and Seals) of a selected card in your hand",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Spectral_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "The Soul",
+		"type": "Spectral Card",
+		"effect": "Creates a Legendary Joker (Must have room)",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Spectral_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	},
+	{
+		"name": "Black Hole",
+		"type": "Spectral Card",
+		"effect": "Upgrades every poker hand (including secret hands not yet discovered) by one level.",
+		"rarity": "N/A",
+		"cost": 0,
+		"link": "https://balatrogame.fandom.com/wiki/Spectral_Cards",
+		"unlock": "N/A",
+		"notes": "N/A"
+	}
+]
